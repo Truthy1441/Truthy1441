@@ -10,6 +10,10 @@
 - Full Stack developer
 - Truthy#4163
 
+## Links
+- [Website](https://tuthy-dev.xyz)
+- [Discord](https://discord.truthy-dev.xyz)
+
 
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
