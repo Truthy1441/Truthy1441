@@ -11,7 +11,7 @@
 - Truthy#4163
 
 ## Links
-- [Website](https://tuthy-dev.xyz)
+- [Website](https://truthy-dev.xyz)
 - [Discord](https://discord.truthy-dev.xyz)
 
 
